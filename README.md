@@ -2,10 +2,10 @@
 
 ## Projeto de sestema de BD
 
--Adicionar alunos
--Remover alunos
--Editar alunos
--Lista alunos
+- Adicionar alunos
+- Remover alunos
+- Editar alunos
+- Lista alunos
 
 ```
 aqui é um bloco de codigo
